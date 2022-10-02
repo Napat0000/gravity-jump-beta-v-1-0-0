@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://napat0000.github.io/gravity-jump-beta-v-1-1-0/](https://napat0000.github.io/gravity-jump-beta-v-1-0-0/)
+> Open this page at [https://napat0000.github.io/gravity-jump-beta-v-1-1-0/](https://napat0000.github.io/gravity-jump-beta-v-1-1-0/)
 
 ## Use as Extension
 
